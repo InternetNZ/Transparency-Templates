@@ -19,4 +19,4 @@ Text in *italics* is guidance and explanatory notes for you, the organisation th
 As a template, the content is designed to work as a stand-alone. You can simply delete the italics, add in your company name in a few places and then publish. However, as a template you can obviously change content, add content or whatever as you see fit.
 
 ## Licencing ##
-The licene for these transparency tools is a CC0 1.0 Universal licence. Please see the **Licence** file in this repository for further information.
+The licence for these transparency tools is a CC0 1.0 Universal licence. Please see the **Licence** file in this repository for further information.
