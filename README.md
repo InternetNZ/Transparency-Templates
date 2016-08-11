@@ -5,7 +5,7 @@ This is a set of templates for the production of a transparency report that comp
 Many organisations find themselves subject to requests for user data from a variety of agencies.  A transparency report is a way for a company report on those requests and so inform their customers and wider stakeholders about the security of their data and how they respond to such requests.
 
 ## Why does this matter to InternetNZ? ##
-InternetNZ believes that use of the InternetNZ depends on confidence that the Internet is a safe place for personal or otherwise confidential data to be held.  That confidence can best be determined by all companies and organisations that hold such data providing information on how they protect it, under what circumstances they share it and to whom.  Transparency reports are an emerging global standard for publishing that information.
+InternetNZ believes that use of the Internet depends on confidence that the Internet is a safe place for personal or otherwise confidential data to be held.  That confidence can best be determined by all companies and organisations that hold such data providing information on how they protect it, under what circumstances they share it and to whom.  Transparency reports are an emerging global standard for publishing that information.
 
 ## What does this repository include? ##
 Version One includes:
