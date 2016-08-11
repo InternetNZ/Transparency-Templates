@@ -260,7 +260,7 @@ Court orders | Statutory powers | Voluntary disclosure
 We accepted *__A__* percent of the requests for voluntary disclosure received and declined the remaining *__B__* percent.
 
 # Open data #
-*we think you should make the data points sitting behind this report available in .cms or .xml so that they can independently combine or reuse statistics.*
+*we think you should make the data points sitting behind this report available in .csv or .xml so that they can independently combine or reuse statistics.*
 
 You can download the data sitting behind this report *here (link)*.
 
